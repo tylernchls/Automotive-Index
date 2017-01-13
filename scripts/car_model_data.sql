@@ -14832,7 +14832,7 @@ INSERT INTO car_models (make_code, make_title, model_code, model_title, year) VA
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2004),
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2005),
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2006),
-('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2007),
+('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2007)  ,
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2008),
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2009),
 ('MB','Mercedes-Benz','ML320BLUE',' - ML320 Bluetec',2010),
