@@ -1,5 +1,6 @@
 -- db indexed_cars
 
+
 CREATE TABLE IF NOT EXISTS car_models
 (
  id serial,
